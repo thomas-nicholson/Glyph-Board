@@ -152,8 +152,5 @@
         <Key android:codes="77939" android:keyLabel="𓁳" />
         <Key android:codes="77940" android:keyLabel="𓁴" />
         <Key android:codes="77941" android:keyLabel="𓁵" />
-        <Key android:codes="77942" android:keyLabel="𓁶" />
-        <Key android:codes="77943" android:keyLabel="𓁷" android:keyEdgeFlags="right"/>
     </Row>
-
 </Keyboard>

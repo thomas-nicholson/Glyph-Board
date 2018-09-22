@@ -6,163 +6,278 @@
     android:keyWidth="12.5%"
     android:keyHeight="45dip">
     <Row>
-        <Key android:codes="78464" android:keyLabel="𓊀" android:keyEdgeFlags="left"/>
-        <Key android:codes="78465" android:keyLabel="𓊁" />
-        <Key android:codes="78466" android:keyLabel="𓊂" />
-        <Key android:codes="78467" android:keyLabel="𓊃" />
-        <Key android:codes="78468" android:keyLabel="𓊄" />
-        <Key android:codes="78469" android:keyLabel="𓊅" />
-        <Key android:codes="78470" android:keyLabel="𓊆" />
-        <Key android:codes="78471" android:keyLabel="𓊇" android:keyEdgeFlags="right"/>
-    </Row>
-    <Row>
-        <Key android:codes="78472" android:keyLabel="𓊈" android:keyEdgeFlags="left"/>
-        <Key android:codes="78473" android:keyLabel="𓊉" />
-        <Key android:codes="78474" android:keyLabel="𓊊" />
-        <Key android:codes="78475" android:keyLabel="𓊋" />
-        <Key android:codes="78476" android:keyLabel="𓊌" />
-        <Key android:codes="78477" android:keyLabel="𓊍" />
-        <Key android:codes="78478" android:keyLabel="𓊎" />
-        <Key android:codes="78479" android:keyLabel="𓊏" android:keyEdgeFlags="right"/>
-    </Row>
-    <Row>
-        <Key android:codes="78480" android:keyLabel="𓊐" android:keyEdgeFlags="left"/>
-        <Key android:codes="78481" android:keyLabel="𓊑" />
+        <Key android:codes="78481" android:keyLabel="𓊑" android:keyEdgeFlags="left"/>
         <Key android:codes="78482" android:keyLabel="𓊒" />
         <Key android:codes="78483" android:keyLabel="𓊓" />
         <Key android:codes="78484" android:keyLabel="𓊔" />
         <Key android:codes="78485" android:keyLabel="𓊕" />
         <Key android:codes="78486" android:keyLabel="𓊖" />
-        <Key android:codes="78487" android:keyLabel="𓊗" android:keyEdgeFlags="right"/>
+        <Key android:codes="78487" android:keyLabel="𓊗" />
+        <Key android:codes="78488" android:keyLabel="𓊘" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78488" android:keyLabel="𓊘" android:keyEdgeFlags="left"/>
-        <Key android:codes="78489" android:keyLabel="𓊙" />
+        <Key android:codes="78489" android:keyLabel="𓊙" android:keyEdgeFlags="left"/>
         <Key android:codes="78490" android:keyLabel="𓊚" />
         <Key android:codes="78491" android:keyLabel="𓊛" />
         <Key android:codes="78492" android:keyLabel="𓊜" />
         <Key android:codes="78493" android:keyLabel="𓊝" />
         <Key android:codes="78494" android:keyLabel="𓊞" />
-        <Key android:codes="78495" android:keyLabel="𓊟" android:keyEdgeFlags="right"/>
+        <Key android:codes="78495" android:keyLabel="𓊟" />
+        <Key android:codes="78496" android:keyLabel="𓊠" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78496" android:keyLabel="𓊠" android:keyEdgeFlags="left"/>
-        <Key android:codes="78497" android:keyLabel="𓊡" />
+        <Key android:codes="78497" android:keyLabel="𓊡" android:keyEdgeFlags="left"/>
         <Key android:codes="78498" android:keyLabel="𓊢" />
         <Key android:codes="78499" android:keyLabel="𓊣" />
         <Key android:codes="78500" android:keyLabel="𓊤" />
         <Key android:codes="78501" android:keyLabel="𓊥" />
         <Key android:codes="78502" android:keyLabel="𓊦" />
-        <Key android:codes="78503" android:keyLabel="𓊧" android:keyEdgeFlags="right"/>
+        <Key android:codes="78503" android:keyLabel="𓊧" />
+        <Key android:codes="78504" android:keyLabel="𓊨" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78504" android:keyLabel="𓊨" android:keyEdgeFlags="left"/>
-        <Key android:codes="78505" android:keyLabel="𓊩" />
+        <Key android:codes="78505" android:keyLabel="𓊩" android:keyEdgeFlags="left"/>
         <Key android:codes="78506" android:keyLabel="𓊪" />
         <Key android:codes="78507" android:keyLabel="𓊫" />
         <Key android:codes="78508" android:keyLabel="𓊬" />
         <Key android:codes="78509" android:keyLabel="𓊭" />
         <Key android:codes="78510" android:keyLabel="𓊮" />
-        <Key android:codes="78511" android:keyLabel="𓊯" android:keyEdgeFlags="right"/>
+        <Key android:codes="78511" android:keyLabel="𓊯" />
+        <Key android:codes="78512" android:keyLabel="𓊰" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78512" android:keyLabel="𓊰" android:keyEdgeFlags="left"/>
-        <Key android:codes="78513" android:keyLabel="𓊱" />
+        <Key android:codes="78513" android:keyLabel="𓊱" android:keyEdgeFlags="left"/>
         <Key android:codes="78514" android:keyLabel="𓊲" />
         <Key android:codes="78515" android:keyLabel="𓊳" />
         <Key android:codes="78516" android:keyLabel="𓊴" />
         <Key android:codes="78517" android:keyLabel="𓊵" />
         <Key android:codes="78518" android:keyLabel="𓊶" />
-        <Key android:codes="78519" android:keyLabel="𓊷" android:keyEdgeFlags="right"/>
+        <Key android:codes="78519" android:keyLabel="𓊷" />
+        <Key android:codes="78520" android:keyLabel="𓊸" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78520" android:keyLabel="𓊸" android:keyEdgeFlags="left"/>
-        <Key android:codes="78521" android:keyLabel="𓊹" />
+        <Key android:codes="78521" android:keyLabel="𓊹" android:keyEdgeFlags="left"/>
         <Key android:codes="78522" android:keyLabel="𓊺" />
         <Key android:codes="78523" android:keyLabel="𓊻" />
         <Key android:codes="78524" android:keyLabel="𓊼" />
         <Key android:codes="78525" android:keyLabel="𓊽" />
         <Key android:codes="78526" android:keyLabel="𓊾" />
-        <Key android:codes="78527" android:keyLabel="𓊿" android:keyEdgeFlags="right"/>
+        <Key android:codes="78527" android:keyLabel="𓊿" />
+        <Key android:codes="78528" android:keyLabel="𓋀" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78528" android:keyLabel="𓋀" android:keyEdgeFlags="left"/>
-        <Key android:codes="78529" android:keyLabel="𓋁" />
+        <Key android:codes="78529" android:keyLabel="𓋁" android:keyEdgeFlags="left"/>
         <Key android:codes="78530" android:keyLabel="𓋂" />
         <Key android:codes="78531" android:keyLabel="𓋃" />
         <Key android:codes="78532" android:keyLabel="𓋄" />
         <Key android:codes="78533" android:keyLabel="𓋅" />
         <Key android:codes="78534" android:keyLabel="𓋆" />
-        <Key android:codes="78535" android:keyLabel="𓋇" android:keyEdgeFlags="right"/>
+        <Key android:codes="78535" android:keyLabel="𓋇" />
+        <Key android:codes="78536" android:keyLabel="𓋈" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78536" android:keyLabel="𓋈" android:keyEdgeFlags="left"/>
-        <Key android:codes="78537" android:keyLabel="𓋉" />
+        <Key android:codes="78537" android:keyLabel="𓋉" android:keyEdgeFlags="left"/>
         <Key android:codes="78538" android:keyLabel="𓋊" />
         <Key android:codes="78539" android:keyLabel="𓋋" />
         <Key android:codes="78540" android:keyLabel="𓋌" />
         <Key android:codes="78541" android:keyLabel="𓋍" />
         <Key android:codes="78542" android:keyLabel="𓋎" />
-        <Key android:codes="78543" android:keyLabel="𓋏" android:keyEdgeFlags="right"/>
+        <Key android:codes="78543" android:keyLabel="𓋏" />
+        <Key android:codes="78544" android:keyLabel="𓋐" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78544" android:keyLabel="𓋐" android:keyEdgeFlags="left"/>
-        <Key android:codes="78545" android:keyLabel="𓋑" />
+        <Key android:codes="78545" android:keyLabel="𓋑" android:keyEdgeFlags="left"/>
         <Key android:codes="78546" android:keyLabel="𓋒" />
         <Key android:codes="78547" android:keyLabel="𓋓" />
         <Key android:codes="78548" android:keyLabel="𓋔" />
         <Key android:codes="78549" android:keyLabel="𓋕" />
         <Key android:codes="78550" android:keyLabel="𓋖" />
-        <Key android:codes="78551" android:keyLabel="𓋗" android:keyEdgeFlags="right"/>
+        <Key android:codes="78551" android:keyLabel="𓋗" />
+        <Key android:codes="78552" android:keyLabel="𓋘" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78552" android:keyLabel="𓋘" android:keyEdgeFlags="left"/>
-        <Key android:codes="78553" android:keyLabel="𓋙" />
+        <Key android:codes="78553" android:keyLabel="𓋙" android:keyEdgeFlags="left"/>
         <Key android:codes="78554" android:keyLabel="𓋚" />
         <Key android:codes="78555" android:keyLabel="𓋛" />
         <Key android:codes="78556" android:keyLabel="𓋜" />
         <Key android:codes="78557" android:keyLabel="𓋝" />
         <Key android:codes="78558" android:keyLabel="𓋞" />
-        <Key android:codes="78559" android:keyLabel="𓋟" android:keyEdgeFlags="right"/>
+        <Key android:codes="78559" android:keyLabel="𓋟" />
+        <Key android:codes="78560" android:keyLabel="𓋠" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78560" android:keyLabel="𓋠" android:keyEdgeFlags="left"/>
-        <Key android:codes="78561" android:keyLabel="𓋡" />
+        <Key android:codes="78561" android:keyLabel="𓋡" android:keyEdgeFlags="left"/>
         <Key android:codes="78562" android:keyLabel="𓋢" />
         <Key android:codes="78563" android:keyLabel="𓋣" />
         <Key android:codes="78564" android:keyLabel="𓋤" />
         <Key android:codes="78565" android:keyLabel="𓋥" />
         <Key android:codes="78566" android:keyLabel="𓋦" />
-        <Key android:codes="78567" android:keyLabel="𓋧" android:keyEdgeFlags="right"/>
+        <Key android:codes="78567" android:keyLabel="𓋧" />
+        <Key android:codes="78568" android:keyLabel="𓋨" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78568" android:keyLabel="𓋨" android:keyEdgeFlags="left"/>
-        <Key android:codes="78569" android:keyLabel="𓋩" />
+        <Key android:codes="78569" android:keyLabel="𓋩" android:keyEdgeFlags="left"/>
         <Key android:codes="78570" android:keyLabel="𓋪" />
         <Key android:codes="78571" android:keyLabel="𓋫" />
         <Key android:codes="78572" android:keyLabel="𓋬" />
         <Key android:codes="78573" android:keyLabel="𓋭" />
         <Key android:codes="78574" android:keyLabel="𓋮" />
-        <Key android:codes="78575" android:keyLabel="𓋯" android:keyEdgeFlags="right"/>
+        <Key android:codes="78575" android:keyLabel="𓋯" />
+        <Key android:codes="78576" android:keyLabel="𓋰" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78576" android:keyLabel="𓋰" android:keyEdgeFlags="left"/>
-        <Key android:codes="78577" android:keyLabel="𓋱" />
+        <Key android:codes="78577" android:keyLabel="𓋱" android:keyEdgeFlags="left"/>
         <Key android:codes="78578" android:keyLabel="𓋲" />
         <Key android:codes="78579" android:keyLabel="𓋳" />
         <Key android:codes="78580" android:keyLabel="𓋴" />
         <Key android:codes="78581" android:keyLabel="𓋵" />
         <Key android:codes="78582" android:keyLabel="𓋶" />
-        <Key android:codes="78583" android:keyLabel="𓋷" android:keyEdgeFlags="right"/>
+        <Key android:codes="78583" android:keyLabel="𓋷" />
+        <Key android:codes="78584" android:keyLabel="𓋸" android:keyEdgeFlags="right"/>
     </Row>
     <Row>
-        <Key android:codes="78584" android:keyLabel="𓋸" android:keyEdgeFlags="left"/>
-        <Key android:codes="78585" android:keyLabel="𓋹" />
+        <Key android:codes="78585" android:keyLabel="𓋹" android:keyEdgeFlags="left"/>
         <Key android:codes="78586" android:keyLabel="𓋺" />
         <Key android:codes="78587" android:keyLabel="𓋻" />
         <Key android:codes="78588" android:keyLabel="𓋼" />
         <Key android:codes="78589" android:keyLabel="𓋽" />
         <Key android:codes="78590" android:keyLabel="𓋾" />
-        <Key android:codes="78591" android:keyLabel="𓋿" android:keyEdgeFlags="right"/>
+        <Key android:codes="78591" android:keyLabel="𓋿" />
+        <Key android:codes="78592" android:keyLabel="𓌀" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78593" android:keyLabel="𓌁" android:keyEdgeFlags="left"/>
+        <Key android:codes="78594" android:keyLabel="𓌂" />
+        <Key android:codes="78595" android:keyLabel="𓌃" />
+        <Key android:codes="78596" android:keyLabel="𓌄" />
+        <Key android:codes="78597" android:keyLabel="𓌅" />
+        <Key android:codes="78598" android:keyLabel="𓌆" />
+        <Key android:codes="78599" android:keyLabel="𓌇" />
+        <Key android:codes="78600" android:keyLabel="𓌈" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78601" android:keyLabel="𓌉" android:keyEdgeFlags="left"/>
+        <Key android:codes="78602" android:keyLabel="𓌊" />
+        <Key android:codes="78603" android:keyLabel="𓌋" />
+        <Key android:codes="78604" android:keyLabel="𓌌" />
+        <Key android:codes="78605" android:keyLabel="𓌍" />
+        <Key android:codes="78606" android:keyLabel="𓌎" />
+        <Key android:codes="78607" android:keyLabel="𓌏" />
+        <Key android:codes="78608" android:keyLabel="𓌐" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78609" android:keyLabel="𓌑" android:keyEdgeFlags="left"/>
+        <Key android:codes="78610" android:keyLabel="𓌒" />
+        <Key android:codes="78611" android:keyLabel="𓌓" />
+        <Key android:codes="78612" android:keyLabel="𓌔" />
+        <Key android:codes="78613" android:keyLabel="𓌕" />
+        <Key android:codes="78614" android:keyLabel="𓌖" />
+        <Key android:codes="78615" android:keyLabel="𓌗" />
+        <Key android:codes="78616" android:keyLabel="𓌘" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78617" android:keyLabel="𓌙" android:keyEdgeFlags="left"/>
+        <Key android:codes="78618" android:keyLabel="𓌚" />
+        <Key android:codes="78619" android:keyLabel="𓌛" />
+        <Key android:codes="78620" android:keyLabel="𓌜" />
+        <Key android:codes="78621" android:keyLabel="𓌝" />
+        <Key android:codes="78622" android:keyLabel="𓌞" />
+        <Key android:codes="78623" android:keyLabel="𓌟" />
+        <Key android:codes="78624" android:keyLabel="𓌠" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78625" android:keyLabel="𓌡" android:keyEdgeFlags="left"/>
+        <Key android:codes="78626" android:keyLabel="𓌢" />
+        <Key android:codes="78627" android:keyLabel="𓌣" />
+        <Key android:codes="78628" android:keyLabel="𓌤" />
+        <Key android:codes="78629" android:keyLabel="𓌥" />
+        <Key android:codes="78630" android:keyLabel="𓌦" />
+        <Key android:codes="78631" android:keyLabel="𓌧" />
+        <Key android:codes="78632" android:keyLabel="𓌨" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78633" android:keyLabel="𓌩" android:keyEdgeFlags="left"/>
+        <Key android:codes="78634" android:keyLabel="𓌪" />
+        <Key android:codes="78635" android:keyLabel="𓌫" />
+        <Key android:codes="78636" android:keyLabel="𓌬" />
+        <Key android:codes="78637" android:keyLabel="𓌭" />
+        <Key android:codes="78638" android:keyLabel="𓌮" />
+        <Key android:codes="78639" android:keyLabel="𓌯" />
+        <Key android:codes="78640" android:keyLabel="𓌰" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78641" android:keyLabel="𓌱" android:keyEdgeFlags="left"/>
+        <Key android:codes="78642" android:keyLabel="𓌲" />
+        <Key android:codes="78643" android:keyLabel="𓌳" />
+        <Key android:codes="78644" android:keyLabel="𓌴" />
+        <Key android:codes="78645" android:keyLabel="𓌵" />
+        <Key android:codes="78646" android:keyLabel="𓌶" />
+        <Key android:codes="78647" android:keyLabel="𓌷" />
+        <Key android:codes="78648" android:keyLabel="𓌸" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78649" android:keyLabel="𓌹" android:keyEdgeFlags="left"/>
+        <Key android:codes="78650" android:keyLabel="𓌺" />
+        <Key android:codes="78651" android:keyLabel="𓌻" />
+        <Key android:codes="78652" android:keyLabel="𓌼" />
+        <Key android:codes="78653" android:keyLabel="𓌽" />
+        <Key android:codes="78654" android:keyLabel="𓌾" />
+        <Key android:codes="78655" android:keyLabel="𓌿" />
+        <Key android:codes="78656" android:keyLabel="𓍀" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78657" android:keyLabel="𓍁" android:keyEdgeFlags="left"/>
+        <Key android:codes="78658" android:keyLabel="𓍂" />
+        <Key android:codes="78659" android:keyLabel="𓍃" />
+        <Key android:codes="78660" android:keyLabel="𓍄" />
+        <Key android:codes="78661" android:keyLabel="𓍅" />
+        <Key android:codes="78662" android:keyLabel="𓍆" />
+        <Key android:codes="78663" android:keyLabel="𓍇" />
+        <Key android:codes="78664" android:keyLabel="𓍈" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78665" android:keyLabel="𓍉" android:keyEdgeFlags="left"/>
+        <Key android:codes="78666" android:keyLabel="𓍊" />
+        <Key android:codes="78667" android:keyLabel="𓍋" />
+        <Key android:codes="78668" android:keyLabel="𓍌" />
+        <Key android:codes="78669" android:keyLabel="𓍍" />
+        <Key android:codes="78670" android:keyLabel="𓍎" />
+        <Key android:codes="78671" android:keyLabel="𓍏" />
+        <Key android:codes="78672" android:keyLabel="𓍐" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78673" android:keyLabel="𓍑" android:keyEdgeFlags="left"/>
+        <Key android:codes="78674" android:keyLabel="𓍒" />
+        <Key android:codes="78675" android:keyLabel="𓍓" />
+        <Key android:codes="78676" android:keyLabel="𓍔" />
+        <Key android:codes="78677" android:keyLabel="𓍕" />
+        <Key android:codes="78678" android:keyLabel="𓍖" />
+        <Key android:codes="78679" android:keyLabel="𓍗" />
+        <Key android:codes="78680" android:keyLabel="𓍘" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78681" android:keyLabel="𓍙" android:keyEdgeFlags="left"/>
+        <Key android:codes="78682" android:keyLabel="𓍚" />
+        <Key android:codes="78683" android:keyLabel="𓍛" />
+        <Key android:codes="78684" android:keyLabel="𓍜" />
+        <Key android:codes="78685" android:keyLabel="𓍝" />
+        <Key android:codes="78686" android:keyLabel="𓍞" />
+        <Key android:codes="78687" android:keyLabel="𓍟" />
+        <Key android:codes="78688" android:keyLabel="𓍠" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78689" android:keyLabel="𓍡" android:keyEdgeFlags="left"/>
+        <Key android:codes="78690" android:keyLabel="𓍢" />
+        <Key android:codes="78691" android:keyLabel="𓍣" />
+        <Key android:codes="78692" android:keyLabel="𓍤" />
+        <Key android:codes="78693" android:keyLabel="𓍥" />
+        <Key android:codes="78694" android:keyLabel="𓍦" />
+        <Key android:codes="78695" android:keyLabel="𓍧" />
+        <Key android:codes="78696" android:keyLabel="𓍨" android:keyEdgeFlags="right"/>
+    </Row>
+    <Row>
+        <Key android:codes="78697" android:keyLabel="𓍩" android:keyEdgeFlags="left"/>
+        <Key android:codes="78698" android:keyLabel="𓍪" />
+        <Key android:codes="78699" android:keyLabel="𓍫" />
     </Row>
 </Keyboard>

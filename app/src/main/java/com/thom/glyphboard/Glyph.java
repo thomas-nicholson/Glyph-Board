@@ -220,18 +220,6 @@ public class Glyph extends InputMethodService implements KeyboardView.OnKeyboard
                 kv.setKeyboard(new Keyboard(here, R.xml.page_8));
             }
         });
-        View page9Button = view.findViewById(R.id.page9Button);
-        page9Button.setOnClickListener(new View.OnClickListener(){
-
-            @Override
-            public void onClick(View v) {
-                resetTabColours(tabBar);
-                TextView textView = (TextView) v;
-                textView.setTextColor(getResources().getColor(R.color.keyTextColor));
-                textView.setBackgroundColor(getResources().getColor(R.color.darkGrey));
-                kv.setKeyboard(new Keyboard(here, R.xml.page_9));
-            }
-        });
 
         View delButton = view.findViewById(R.id.delButton);
         delButton.setOnClickListener(new View.OnClickListener() {
