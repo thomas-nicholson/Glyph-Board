@@ -10,5 +10,5 @@
     android:keyPreviewLayout ="@layout/preview"
     android:keyBackground="@color/darkGrey"
     android:background="@color/darkGrey"
-    android:keyTextColor="#D3D3D3"
+    android:keyTextColor="@color/keyTextColor"
     />

@@ -6,13 +6,14 @@
     android:id="@+id/keyboard_layout">
 
     <LinearLayout
+        android:id="@+id/tab_bar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="horizontal">
 
         <TextView
             android:id="@+id/page1Button"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:gravity="center"
@@ -25,7 +26,7 @@
 
         <TextView
             android:id="@+id/page2Button"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:gravity="center"
@@ -37,7 +38,7 @@
             android:text="𓂀" />
         <TextView
             android:id="@+id/page3Button"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="25sp"
@@ -49,7 +50,7 @@
             android:text="𓄀" />
         <TextView
             android:id="@+id/page4Button"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="25sp"
@@ -61,7 +62,7 @@
             android:text="𓆀" />
         <TextView
             android:id="@+id/page5Button"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="25sp"
@@ -73,7 +74,7 @@
             android:text="𓈀" />
         <TextView
             android:id="@+id/page6Button"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="25sp"
@@ -85,7 +86,7 @@
             android:text="𓊀" />
         <TextView
             android:id="@+id/page7Button"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="25sp"
@@ -97,7 +98,7 @@
             android:text="𓌀" />
         <TextView
             android:id="@+id/page8Button"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="25sp"
@@ -109,7 +110,7 @@
             android:text="𓎀" />
         <TextView
             android:id="@+id/page9Button"
-            android:layout_width="wrap_content"
+            android:layout_width="0dp"
             android:layout_height="match_parent"
             android:layout_weight="1"
             android:textSize="25sp"
